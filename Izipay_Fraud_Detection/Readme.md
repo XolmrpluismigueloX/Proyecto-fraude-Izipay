@@ -60,5 +60,9 @@ El repositorio se encuentra organizado de la siguiente manera para facilitar la 
 
 - Vulnerabilidad por Dispositivo y Frecuencia
 
+Link de Streamlit:
+
+http://169.58.96.176:8501/
+
 
 
